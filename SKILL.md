@@ -21,6 +21,13 @@ O segundo princípio: **a queixa do cliente raramente aponta a causa certa.** O 
 
 **Não usar para:** dashboard operacional recorrente, report automatizado de números sem tese.
 
+## Menu de análises
+
+`references/checklist-analises.md` lista as análises possíveis por bloco (mercado,
+concorrência, mídia paga, reputação, preço, conversão), com fonte, custo e o
+subconjunto que forma o pacote base. Consulte ao definir o escopo — este arquivo
+diz **como pensar**; aquele diz **o que coletar**.
+
 ## Sequência de trabalho
 
 ### 1. Verifique suas ferramentas antes de prometer ou recusar
