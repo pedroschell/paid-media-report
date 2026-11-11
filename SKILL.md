@@ -1,5 +1,5 @@
 ---
-name: relatorio-estrategico-cliente
+name: paid-media-report
 description: Use ao montar análise estratégica, diagnóstico sazonal, benchmark de concorrência ou relatório de performance para cliente de mídia paga — especialmente quando o cliente reclama de queda de resultado, questiona a gestão da conta, ou pede "soluções reais" e é preciso separar percepção de dado verificável.
 ---
 
