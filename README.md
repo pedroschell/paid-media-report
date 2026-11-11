@@ -1,4 +1,4 @@
-# relatorio-estrategico-cliente
+# paid-media-report
 
 Uma skill para o Claude Code que monta **análises estratégicas e relatórios para clientes de mídia paga** separando percepção de dado verificável.
 
@@ -19,7 +19,7 @@ Ela foi feita para o momento mais difícil da relação com o cliente: quando os
 ## Como instalar
 
 ```bash
-git clone https://github.com/pedroschell/relatorio-estrategico-cliente ~/.claude/skills/relatorio-estrategico-cliente
+git clone https://github.com/pedroschell/paid-media-report ~/.claude/skills/paid-media-report
 ```
 
 Peça algo como *"o cliente reclamou da queda de leads, monta uma análise para a reunião"* e a skill é acionada.
