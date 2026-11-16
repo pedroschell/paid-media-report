@@ -1,5 +1,7 @@
 # paid-media-report
 
+**Português** | [English](README.en.md)
+
 Uma skill para o Claude Code que monta **análises estratégicas e relatórios para clientes de mídia paga** separando percepção de dado verificável.
 
 Ela foi feita para o momento mais difícil da relação com o cliente: quando os resultados caem, ele questiona a gestão da conta e pede "soluções reais". Nessa hora, um número inventado destrói a conta inteira, porque o relatório vai para uma reunião com pessoas que podem checar.
